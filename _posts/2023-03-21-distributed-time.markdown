@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "分布式挑战之无全局时钟-time"
-date:   2023-03-19 21:37:27 +0800
-categories: distributed update
+date:   2021-03-19 20:37:20 +0800
+categories: distributed foundation
 ---
 # 分布式挑战之无全局时钟-time
 时间本身有两个属性：顺序、计量

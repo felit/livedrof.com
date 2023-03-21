@@ -9,7 +9,7 @@ categories: jekyll update
 
 有以下几种：
 
- | 解决方案 |  特点2|精度 | 使用场景 | 案例 |
+ | 解决方案 |  特点|精度 | 使用场景 | 案例 |
  |---| --- | --- | --- | --- |
  | 本地时间 | 单点 | ns| Mysql/Postgresql|
  | 时钟同步  | |ms| ntp/chrony|

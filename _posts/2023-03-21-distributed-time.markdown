@@ -2,7 +2,7 @@
 layout: post
 title:  "分布式挑战之无全局时钟-time"
 date:   2023-03-19 21:37:27 +0800
-categories: jekyll update
+categories: distributed update
 ---
 # 分布式挑战之无全局时钟-time
 时间本身有两个属性：顺序、计量
